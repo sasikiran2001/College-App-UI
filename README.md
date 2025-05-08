@@ -34,16 +34,16 @@ The dashboard/home screen shown after successful login.
 ## 📸 Screenshots
 
 ### 🔐 Login
-![Login](login.png.png)
+![Login](login.png)
 
 ### 🆕 Signup
-![Signup](signup.png.png)
+![Signup](signup.png)
 
 ### 🔄 Reset Password
-![Reset Password](reset-password.png.png)
+![Reset Password](reset-password.png)
 
 ### 📞 Contact Us
-![Contact Us](contact-us.png.png)
+![Contact Us](contact-us.png)
 
 ### 🏠 After Login Page
 ![After Login](after_login.png)
