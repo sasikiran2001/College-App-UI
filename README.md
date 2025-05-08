@@ -31,13 +31,13 @@ A form where users can send messages or reach out to the app’s support team, w
 ## 📸 Screenshots
 
 ### 🔐 Login
-![Login](images/login.png)
+![Login](login.png.png)
 
 ### 🆕 Signup
-![Signup](images/signup.png)
+![Signup](signup.png.png)
 
 ### 🔄 Reset Password
-![Reset Password](images/reset-password.png)
+![Reset Password](reset-password.png.png)
 
 ### 📞 Contact Us
-![Contact Us](images/contact-us.png)
+![Contact Us](contact-us.png.png)
