@@ -26,6 +26,9 @@ A minimal page allowing users to securely reset their password via email.
 ### 📞 Contact Us Page
 A form where users can send messages or reach out to the app’s support team, with fields like name, email, subject, and message.
 
+### 🏠 After Login Page  
+The dashboard/home screen shown after successful login.
+
 ---
 
 ## 📸 Screenshots
@@ -41,3 +44,6 @@ A form where users can send messages or reach out to the app’s support team, w
 
 ### 📞 Contact Us
 ![Contact Us](contact-us.png.png)
+
+### 🏠 After Login Page
+![After Login](after_login.png)
