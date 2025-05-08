@@ -8,7 +8,7 @@ The design focuses on providing a simple and clean experience for new users and 
 
 ## 🔗 Live Preview
 
-👉 [Click here to view the Figma Design]([https://www.figma.com/file/your-figma-link](https://www.figma.com/proto/z8gk5564DquZAPeRQ54v5b/Untitled?page-id=0%3A1&node-id=9-60&p=f&viewport=977%2C296%2C0.31&t=0Ijzjn4GKWJImDdJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A60))
+👉 [Click here to view the Figma Design](https://www.figma.com/proto/z8gk5564DquZAPeRQ54v5b/Untitled?page-id=0%3A1&node-id=9-60&p=f&viewport=977%2C296%2C0.31&t=0Ijzjn4GKWJImDdJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A60)
 
 ---
 
